@@ -10,6 +10,8 @@ public class Main {
 		System.out.println("hello world");
 		//	Setp 1
 		System.out.println("下一步！");
+		//	Setp 2
+		System.out.println("下er步！");
 	}
 
 }
